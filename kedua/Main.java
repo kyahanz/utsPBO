@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.List;
 
+//masukkan username: admin dan password: admin untuk mendapatkan akses admin
+//masukkan username: user dan password: user untuk mendapatkan akses user
 public class Main {
     public static void main (String[] args) {
   
